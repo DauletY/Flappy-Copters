@@ -1,0 +1,1 @@
+Quick strat, implementation of 2d flapping helicopters game, thank you for attention!
